@@ -40,3 +40,37 @@ ul{
     margin: 1px;
     padding: 15px;
 }
+
+th{
+    text-align: left;
+    background-color: rgb(0, 157, 255);
+    color: white;
+}
+
+.colonna3{
+    width: 50%;
+    text-align: left;
+}
+
+.riga2{
+    background-color: rgba(127, 253, 255, 0.778);
+}
+
+span{
+    background-color: yellow;
+}
+
+.image1{
+    background-image: url(../img/monitor.jpg);
+    height:200px;
+    background-repeat: no-repeat;
+    margin: 10px auto 10px auto;
+}
+
+.image2{
+    background-image: url(../img/graph.jpg);
+    height:200px;
+    background-repeat: no-repeat;
+    margin: 10px auto 10px auto;
+}   
+

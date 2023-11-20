@@ -1,0 +1,10 @@
+#title{
+    width: 200px;
+    margin-top: 40px;
+}
+
+header{
+    background-image: url("../img/pattern.png");
+    height: 100px;
+    background-color: rgb(0, 183, 255);
+}

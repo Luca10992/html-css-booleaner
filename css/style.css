@@ -62,15 +62,22 @@ span{
 
 .image1{
     background-image: url(../img/monitor.jpg);
+    padding-top: 10px;
+    padding-left: 10px;
     height:200px;
     background-repeat: no-repeat;
     margin: 10px auto 10px auto;
+    color: white;
 }
 
 .image2{
     background-image: url(../img/graph.jpg);
+    padding-top: 10px;
+    padding-left: 10px;
     height:200px;
     background-repeat: no-repeat;
     margin: 10px auto 10px auto;
+    color: white
+    
 }   
 

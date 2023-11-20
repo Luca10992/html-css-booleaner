@@ -24,6 +24,10 @@ h2{
 }
 
 h5{
-    margin: 1px;
+    margin-top: 1px;
     color: darkgray;
+}
+
+h6{
+    margin: 1px;
 }

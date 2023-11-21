@@ -79,5 +79,9 @@ span{
     margin: 10px auto 10px auto;
     color: white
     
-}   
+}  
+
+table{
+    border-collapse: collapse;
+}
 

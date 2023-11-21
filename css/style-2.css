@@ -1,9 +1,13 @@
 article{
-    margin-left: 150px;
+    margin-left: 200px;
     margin-right: 150px;
 }
 
 #title{
-    margin-left: 150px;
+    margin-left: 200px;
     margin-right: 150px;
+}
+
+body{
+    margin: 0px;
 }
